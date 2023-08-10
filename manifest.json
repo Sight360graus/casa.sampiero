@@ -36,10 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Campo Sampiero villaggio turistico",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "description": "Descubra AGORA em 360° a magia da sua casa de campo no Villaggio Turistico",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
  "start_url": "index.htm",
- "background_color": "#FFFFFF"
+ "name": "Campo Sampiero villaggio turistico"
 }
